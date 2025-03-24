@@ -54,5 +54,3 @@ A fully interactive **Space Invaders-style arcade game** implemented in C for ST
 
 ---
 
-## 📂 Code Structure
-├── main.c # Peripheral initialization and main loop ├── GameManager.c # Main game logic and flow control ├── Buzzer.c # Music and sound effects ├── Keypad.c # Debounced keypad handler ├── Lcd.c # UI screen rendering ├── LiquidCrystal.c # Custom LCD driver for STM32 ├── Characters.h # Custom LCD characters (plane, enemy, arrows) └── project.cpp # (Optional ADF graph, unused in core game)
